@@ -7,7 +7,7 @@ mu_0 = 4*np.pi*(10**-7)  # Vacuum permeability (T·m/A)
 c = 299792458  # Speed of light (m/s)
 
 # Defining the relevant properties of the bodies.
-charges = [-3e-3, -4e-3, -5e-3]  #Units of Coulumcs
+charges = [-3e-3, -4e-3, -5e-3]  #Units of Coulumbs
 masses = [1, 1, 1]  #Units of Kg
 
 # Setting the initial conditions of the simulation
